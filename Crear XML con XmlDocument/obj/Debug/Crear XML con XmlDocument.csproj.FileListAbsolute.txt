@@ -1,0 +1,7 @@
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\bin\Debug\Crear XML con XmlDocument.exe.config
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\bin\Debug\Crear XML con XmlDocument.exe
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\bin\Debug\Crear XML con XmlDocument.pdb
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\obj\Debug\Crear XML con XmlDocument.csproj.CoreCompileInputs.cache
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\obj\Debug\Crear XML con XmlDocument.exe
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\obj\Debug\Crear XML con XmlDocument.pdb
+C:\Users\Soporte-PC\Documents\Visual Studio 2017\Projects\Crear XML con XmlDocument\Crear XML con XmlDocument\obj\Debug\Crear XML con XmlDocument.csprojResolveAssemblyReference.cache

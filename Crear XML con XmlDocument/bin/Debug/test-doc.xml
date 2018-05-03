@@ -1,0 +1,4 @@
+<users>
+  <user age="42" sex="male">John Doe</user>
+  <user age="39">Jane Doe</user>
+</users>
